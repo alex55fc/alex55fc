@@ -1,9 +1,5 @@
 # Alexander Fuela - Software Developer
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/avatars/avatar.png" alt="Alexander Fuela" />
-</p>
-
 <h3 align="center">Striving to become the best software developer.</h3>
 
 🎓 I'm currently studying at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
